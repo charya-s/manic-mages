@@ -1,0 +1,2 @@
+﻿61371
+C:/Program Files/Godot/Godot4.2Mono/Godot_v4.2-beta6_mono_win64.exe
